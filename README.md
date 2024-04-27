@@ -1,5 +1,5 @@
 # Django-Ecommerce_proj
-<A fullstack Django ecommerce project> 
+A fullstack Django ecommerce project
 Key Features:
 
 User Authentication: Implemented user login and logout functionalities to ensure secure access to the platform.
